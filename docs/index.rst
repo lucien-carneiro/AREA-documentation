@@ -5,21 +5,17 @@ Action REAction
 Welcome to our AREA documentation!
 ====================================
 
-**AREA** is the final project made in our second year in Epitech.
-The goal of this project is to create a network game.
-Several teams confront on a tiles map containing resources.
-The winning team is the one with 6 players who reached maximum elevation.
-The following documentation describe all the details and constraints.
-
-Thus there is three parts to this project:
-
-- **The server:** ...
-- **The client:** ...
-- **The Entity Component System:** ...
+**AREA** is the final project made in our third year in Epitech.
+The goal of this project is to discover, as a whole, the software platform that you have chosen through the creation of a business application.
+To do this, we implement a software suite that functions similar to that of IFTTT and/or Zapier.
+This software suite will be broken into three parts :
+- **An application server** to implement all the features listed below (see Features)
+- **A web client** to use the application from your browser by querying the application server
+- **A mobile client** to use the application from your phone by querying the application server
 
 Schema
 ======
-.. image:: assets/schema.png
+.. image:: assets/AREA.png
 
 --> Represents the interaction between SERVER/IA and SERVER/GUI.
 
@@ -40,7 +36,3 @@ Contents
 ========
 .. toctree::
    Usage
-   Commands
-   Server
-   Client
-   ECS
