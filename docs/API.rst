@@ -5,29 +5,35 @@ https://app.swaggerhub.com/apis/LUCIENCARNEIRO/AREA/1.0.0#/
 
 /about
 ******
---> /about
+
+**--> /about**
 
 /account
 ********
---> /editAccount
---> /viewAccount
+
+**--> /editAccount**
+**--> /viewAccount**
 
 /actions
 ********
+
 --> /getActionsByServiceId
 
 /admin
 ******
+
 --> /admin
 
 /area
 ******
+
 -−> /createArea
 --> /getAreabyUserId
 --> /delete
 
 /auth
 ******
+
 --> /login
 --> /logout
 --> /refresh
@@ -35,10 +41,12 @@ https://app.swaggerhub.com/apis/LUCIENCARNEIRO/AREA/1.0.0#/
 
 /coingecko
 **********
+
 --> /getCrypto
 
 /discord
 ********
+
 --> /getDiscordSSOBot
 --> /getDiscordSSOBotCallback
 --> /getServers
@@ -47,10 +55,12 @@ https://app.swaggerhub.com/apis/LUCIENCARNEIRO/AREA/1.0.0#/
 
 /email
 ******
+
 --> /sendCustomEmail
 
 /github
 *******
+
 --> /actions/getRepositoryPullRequests
 --> /misc/getUserRepositories
 --> /reactions/callbackIssues
@@ -60,23 +70,28 @@ https://app.swaggerhub.com/apis/LUCIENCARNEIRO/AREA/1.0.0#/
 
 /inputs
 *******
+
 --> /getInputs
 --> /getInputsType
 
 /layouts
 ********
+
 --> /getLayoutsByActionId
 
 /reactions
 **********
+
 --> /getReactionsByServiceId
 
 /services
 *********
+
 --> /listServices
 
 /sso
 ******
+
 --> /ConnectSso/Web/connectSso
 --> /Discord/Web/auth
 --> /Discord/Web/callback
@@ -91,6 +106,7 @@ https://app.swaggerhub.com/apis/LUCIENCARNEIRO/AREA/1.0.0#/
 
 /trello
 *******
+
 --> /actions/handleCardCreation
 --> /reactions/createCardOnBoard
 --> getBoards
@@ -101,5 +117,6 @@ https://app.swaggerhub.com/apis/LUCIENCARNEIRO/AREA/1.0.0#/
 
 /weather
 ********
+
 --> /actions/isMoreThan
 --> /actions/poorAir
