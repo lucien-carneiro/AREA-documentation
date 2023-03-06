@@ -38,3 +38,4 @@ Contents
 ========
 .. toctree::
    Usage
+   BDD
