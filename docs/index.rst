@@ -38,4 +38,5 @@ Contents
 ========
 .. toctree::
    Usage
+   API
    BDD
