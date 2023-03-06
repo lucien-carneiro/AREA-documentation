@@ -1,7 +1,5 @@
-BDD
-===
+Base de Donnée
+==============
 
-Schema
-======
 .. image:: assets/BDD.png
 
