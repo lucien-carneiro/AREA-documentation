@@ -38,8 +38,11 @@ https://app.swaggerhub.com/apis/LUCIENCARNEIRO/AREA/1.0.0#/
 ******
 
 --> /login
+
 --> /logout
+
 --> /refresh
+
 --> /register
 
 /coingecko
@@ -51,9 +54,13 @@ https://app.swaggerhub.com/apis/LUCIENCARNEIRO/AREA/1.0.0#/
 ********
 
 --> /getDiscordSSOBot
+
 --> /getDiscordSSOBotCallback
+
 --> /getServers
+
 --> /postDiscordChannel
+
 --> /sendDiscordChannel
 
 /email
@@ -65,16 +72,22 @@ https://app.swaggerhub.com/apis/LUCIENCARNEIRO/AREA/1.0.0#/
 *******
 
 --> /actions/getRepositoryPullRequests
+
 --> /misc/getUserRepositories
+
 --> /reactions/callbackIssues
+
 --> /reactions/callbackPullRequests
+
 --> /reactions/callbackPush
+
 --> /reactions/callbackWorkflowRun
 
 /inputs
 *******
 
 --> /getInputs
+
 --> /getInputsType
 
 /layouts
@@ -96,30 +109,48 @@ https://app.swaggerhub.com/apis/LUCIENCARNEIRO/AREA/1.0.0#/
 ******
 
 --> /ConnectSso/Web/connectSso
+
 --> /Discord/Web/auth
+
 --> /Discord/Web/callback
+
 --> /Discord/Web/connect
+
 --> /Discord/Mobile/auth
+
 --> /Discord/Mobile/callback
+
 --> /Github/Web/callback
+
 --> /Github/Web/connect
+
 --> /Twitch/Web/auth
+
 --> /Twitch/Web/callback
+
 --> /Twitch/Web/connect
 
 /trello
 *******
 
 --> /actions/handleCardCreation
+
 --> /reactions/createCardOnBoard
+
 --> getBoards
+
 --> getBoardsList
+
 --> getTrelloSSO
+
 --> getTrelloSSOCallback
+
 --> postTrelloAuth
 
 /weather
 ********
 
 --> /actions/isMoreThan
+
 --> /actions/poorAir
+
