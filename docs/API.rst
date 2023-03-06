@@ -6,13 +6,13 @@ https://app.swaggerhub.com/apis/LUCIENCARNEIRO/AREA/1.0.0#/
 /about
 ******
 
-**--> /about**
+`--> /about`
 
 /account
 ********
 
-**--> /editAccount**
-**--> /viewAccount**
+`--> /editAccount`
+`--> /viewAccount`
 
 /actions
 ********
